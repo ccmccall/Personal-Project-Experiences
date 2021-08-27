@@ -9,4 +9,3 @@ The projects included in this Repo are:
       4. Build Your Own World Interactive Game (Java)
       5. Restaurant Maps: Machine Learning (Python)
       6. Ants vs. SomeBees Game (Python)
-      7. Add more later. 
