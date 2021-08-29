@@ -1,2 +1,3 @@
 2048 Project Description:
-  Description here.
+  Recreating the 2048 App game through Java. 
+  Contains full functionality, and required many logic dependent functions for order of operations processes.
